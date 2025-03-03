@@ -1,0 +1,17 @@
+h1, h3, p {
+    text-align: center;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
+
+.button {
+    color: blue;
+}
